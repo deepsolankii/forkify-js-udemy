@@ -54,6 +54,31 @@
     }
   }
 }
+.page-1 {
+  color: $color-primary;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border: none;
+  background-color: $color-grey-light-1;
+  padding: 0.8rem 1.2rem;
+  border-radius: 10rem;
+  position: relative;
+  top: 15%;
+  left: 43.5%;
+}
+
+.current__page {
+  color: $color-primary;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border: none;
+  background-color: $color-grey-light-1;
+  padding: 0.8rem 1.2rem;
+  border-radius: 10rem;
+  position: relative;
+  top: 15%;
+  left: 15%;
+}
 
 .btn--inline {
   color: $color-primary;
